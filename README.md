@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 2 | 2 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [math](#math) (1)
+- [strings](#strings) (1)
 
 ---
 
@@ -21,6 +22,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [Java 21](https://github.com/KrishanKant2256/CodeForces/blob/HEAD/1/A%20-%20Theatre%20Square/solution.java) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Java 21](https://github.com/KrishanKant2256/CodeForces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.java) |
 
 ---
 
